@@ -21,7 +21,7 @@ Completed Tasks (3/6)
 Task	Description	Status
 Task 1	Iris Dataset Analysis & Visualization
 Task 3	Heart Disease Prediction
-Task 4	Health Query Chatbot (Gemini)	
+Task 4	Health Query Chatbot (Gemini API)	
 
 Technologies Used
 Python, pandas, numpy
